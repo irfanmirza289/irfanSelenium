@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72" started-at="2018-11-13T17:39:51Z" finished-at="2018-11-13T17:39:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72" started-at="2018-11-13T17:39:51Z" finished-at="2018-11-13T17:39:51Z">
+      <class name="com.Annotations.Annotations1">
+        <test-method status="PASS" signature="BrowserLaunchAndLogIn()[pri:0, instance:com.Annotations.Annotations1@337d0578]" name="BrowserLaunchAndLogIn" duration-ms="24" started-at="2018-11-13T11:39:51Z" finished-at="2018-11-13T11:39:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunchAndLogIn -->
+      </class> <!-- com.Annotations.Annotations1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
